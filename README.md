@@ -41,8 +41,6 @@ anlamasına ve TCMB politika değişikliklerine göre kararlarını
 zamanlamasına yardımcı olmaktır.
 
 -
-GitHub deponuza (repository) ekleyebileceğiniz kısa, iki dilli ve Markdown formatına uygun terim sözlüğü aşağıdadır:
-
 ## Risk-On
 **TR:** Yatırımcıların küresel ekonomiye dair iyimser beklentilerle hareket ettiği ve yüksek getiri amacıyla güvenli limanlardan çıkıp hisse senedi, kripto para gibi riskli varlıklara yöneldiği piyasa ortamıdır. [heygotrade](https://www.heygotrade.com/en/blog/understanding-risk-on-risk-off-market)
 
