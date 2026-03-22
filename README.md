@@ -41,3 +41,19 @@ anlamasına ve TCMB politika değişikliklerine göre kararlarını
 zamanlamasına yardımcı olmaktır.
 
 -
+GitHub deponuza (repository) ekleyebileceğiniz kısa, iki dilli ve Markdown formatına uygun terim sözlüğü aşağıdadır:
+
+## Risk-On
+**TR:** Yatırımcıların küresel ekonomiye dair iyimser beklentilerle hareket ettiği ve yüksek getiri amacıyla güvenli limanlardan çıkıp hisse senedi, kripto para gibi riskli varlıklara yöneldiği piyasa ortamıdır. [heygotrade](https://www.heygotrade.com/en/blog/understanding-risk-on-risk-off-market)
+
+**EN:** An optimistic market environment where investors feel confident about economic growth and move capital away from safe-haven assets into higher-yielding, riskier assets like equities and cryptocurrencies. [capital](https://capital.com/en-int/learn/glossary/risk-on-risk-off-definition)
+
+## Carry Unwind
+**TR:** Düşük faizli bir para biriminden borçlanılarak yüksek getirili varlıklara yapılan yatırımların (carry trade), piyasadaki panik veya artan volatilite sebebiyle hızla satılıp borcun kapatılması sürecidir. [tastyfx](https://www.tastyfx.com/news/how-the-carry-trade-works-and-position-unwinds-explained/)
+
+**EN:** The rapid reversal of carry trades, where investors quickly sell off high-yielding risk assets to buy back the low-yielding borrowed currency, usually triggered by market panic or rising volatility. [ebc](https://www.ebc.com/forex/yen-carry-trade-unwind-could-it-trigger-the-next-market-crash)
+
+## Stagflation Sideways
+**TR:** Ekonomik durgunluk ile yüksek enflasyonun aynı anda yaşandığı (stagflasyon) ve bu belirsizlik nedeniyle varlık fiyatlarının uzun süre belirgin bir trend oluşturmadan dar bir bantta yatay (sideways) dalgalandığı piyasa koşuludur. [heygotrade](https://www.heygotrade.com/en/blog/understanding-risk-on-risk-off-market)
+
+**EN:** A period of economic uncertainty combining stagnant growth with high inflation (stagflation), causing asset prices to fluctuate within a narrow, directionless range (sideways) for an extended period. [capital](https://capital.com/en-int/learn/glossary/risk-on-risk-off-definition)
