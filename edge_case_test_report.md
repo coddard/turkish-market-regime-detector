@@ -1,6 +1,6 @@
 # BIST100 Regime Detector Edge Case Test Report
 
-**Generated:** 2026-03-21 21:30:53
+**Generated:** 2026-03-22 19:36:30
 **Total Tests:** 10
 **Passed:** 2
 **Failed:** 8
@@ -120,7 +120,7 @@ ValueError: Eğitim için yeterli veri noktası bulunamadı.
 ### Long Period Analysis (10 Years)
 
 Status: ✅ PASSED
-Duration: 12.28s
+Duration: 12.16s
 Result: {'features':               bist_close   banka_close  ...  rate_momentum  real_return
 Date                                    ...                            
 2020-04-17    981.792786   1222.409058  ...          -2.25     2.005939
