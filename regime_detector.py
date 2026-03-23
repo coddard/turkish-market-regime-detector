@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 BIST100 Rejim Tespiti + TCMB Politika Entegrasyonu
-Author: Giga Potato
 Description: Market regime detection for BIST100 using KMeans & HMM, integrated with TCMB monetary policy data
 """
 
