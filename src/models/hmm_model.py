@@ -124,9 +124,10 @@ class HMMRegimeModel(RegimeModelBase):
             raise ValueError("Invalid input data")
         
         # Use Viterbi decoding for most likely sequence
-        predictions, _ = self.model.decode(X.values, algorithm="viterbi")
+        # decode returns (log_prob, state_sequence)
+        _, predictions = self.model.decode(X.values, algorithm="viterbi")
         
-        return predictions
+        return np.array(predictions)
     
     def predict_proba(self, X: pd.DataFrame) -> np.ndarray:
         """
