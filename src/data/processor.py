@@ -392,9 +392,9 @@ class DataProcessor:
             DataFrame with missing data handled
         """
         if method == "forward_fill":
-            return data.fillna(method='ffill')
+            return data.ffill()
         elif method == "backward_fill":
-            return data.fillna(method='bfill')
+            return data.bfill()
         elif method == "drop":
             return data.dropna()
         elif method == "interpolate":
