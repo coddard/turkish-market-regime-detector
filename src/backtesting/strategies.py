@@ -4,7 +4,7 @@ Trading strategies for regime-based backtesting
 
 import pandas as pd
 import numpy as np
-from typing import Callable
+from typing import Callable, Optional
 import logging
 
 logger = logging.getLogger(__name__)
